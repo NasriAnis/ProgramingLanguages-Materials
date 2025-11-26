@@ -1,30 +1,13 @@
-# Secure P2P Chat and File Transfer Application
-
-  
-
 ## Introduction
 
-  
-
 This document provides a deep dive into the design and implementation of a secure, peer-to-peer (P2P) chat and file-sharing application written in C. The goal of this document is to not only explain how the application works but also to provide a solid foundation for understanding the underlying concepts of socket programming, cryptography, and P2P application development.
-
-  
-
 ## Core Concepts
-
-  
 
 ### Peer-to-Peer (P2P) Networking
 
-  
-
 In a traditional client-server model, all clients connect to a central server. The server is responsible for relaying messages between clients. In a P2P model, however, clients (or "peers") connect directly to each other without the need for a central server.
 
-  
-
 **Advantages of P2P:**
-
-  
 
 *   **No Single Point of Failure:** If a central server goes down, the entire network is offline. In a P2P network, the network remains operational as long as there are peers connected.
 

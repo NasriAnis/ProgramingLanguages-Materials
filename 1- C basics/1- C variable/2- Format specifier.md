@@ -26,3 +26,5 @@ Printing value without a variable :
 printf("My favorite number is: %d", 15);  
 printf("My favorite letter is: %c", 'D');
 ```
+
+**Note**: "sizeof" returns "size_t". The type of unsigned integer of "size_t" can vary depending on platform. And, it may not be long unsigned int everywhere. In such cases, we use "%zu" for the format string instead of "%d".

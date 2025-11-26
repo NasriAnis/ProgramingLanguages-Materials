@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Socket Programming/3- Complete guide.md",
+                "file": "1- C basics/14- C pointers/1- Creating pointers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3- Complete guide"
+              "title": "1- Creating pointers"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1- C basics/12- C user input/1- User input.md",
+                "file": "Socket Programming/Secure P2P Chat and File Transfer Application.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1- User input"
+              "title": "Secure P2P Chat and File Transfer Application"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "printf",
+                "query": "arra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,32 +186,32 @@
   },
   "active": "7293be85fd741eea",
   "lastOpenFiles": [
-    "1- C basics/2- C data types/1- Data types.md",
-    "Untitled.md",
-    "Socket Programming/3- Complete guide.md",
-    "Socket Programming/1- Step for a connexion.md",
-    "Socket Programming/2- How it work.md",
-    "1- C basics/12- C user input/1- User input.md",
-    "1- C basics/5- C if else statement/6- Logical operator.md",
-    "1- C basics/4- C operators/4- Comparison operators.md",
-    "1- C basics/4- C operators/3- Assignment operators.md",
-    "1- C basics/4- C operators/2- Arithmetic operators.md",
-    "1- C basics/4- C operators/1- Operators.md",
-    "1- C basics/8- C for loop/1- For loop.md",
-    "1- C basics/7- C while loops/3- Do while loops.md",
-    "1- C basics/7- C while loops/2- While loop.md",
-    "1- C basics/7- C while loops/1- Loops.md",
-    "1- C basics/5- C if else statement/5- Short hand if else (ternary operator).md",
-    "1- C basics/5- C if else statement/4- else if.md",
-    "1- C basics/5- C if else statement/3- else statement.md",
-    "1- C basics/5- C if else statement/2- if statement.md",
-    "1- C basics/5- C if else statement/1- Conditions.md",
-    "C reference/Additional.md",
+    "1- C basics/3- C constants/const qualifier.md",
     "1- C basics/14- C pointers/1- Creating pointers.md",
+    "1- C basics/14- C pointers/2- Pointers and arrays.md",
+    "1- C basics/14- C pointers/2- Initialization of pointer arrays.md",
+    "1- C basics/2- C data types/1- Data types.md",
+    "1- C basics/3- C constants/define keyword.md",
+    "1- C basics/3- C constants/Difference between const and define.md",
+    "1- C basics/3- C constants/const keyword.md",
+    "1- C basics/3- C constants/Changing the value of a constant.md",
+    "1- C basics/1- C variable/2- Format specifier.md",
+    "1- C basics/1- C variable/4- Lvalue and Rvalue.md",
+    "1- C basics/1- C variable/3- variable and space.md",
+    "1- C basics/2- C data types/Examples.md",
+    "1- C basics/2- C data types/8- Boolean (bool).md",
+    "1- C basics/2- C data types/7- Extended types.md",
+    "1- C basics/2- C data types/6- Type conversion.md",
+    "1- C basics/2- C data types/5- sizeof Operator.md",
+    "1- C basics/2- C data types/4- Decimal precision.md",
     "1- C basics/2- C data types/3- Numeric (int, float, double).md",
     "1- C basics/2- C data types/2- Character (char).md",
-    "1- C basics/1- C variable/2- Format specifier.md",
+    "1- C basics/1- C variable/Examples.md",
     "1- C basics/1- C variable/1- Create variable.md",
+    "C reference/c keyword.md",
+    "C reference/math.h.md",
+    "C reference/Additional.md",
+    "1- C basics/14- C pointers/Additional information.md",
     "Socket Programming",
     "C reference",
     "2- C functions",
