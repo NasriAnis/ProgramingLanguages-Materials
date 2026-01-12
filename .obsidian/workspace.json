@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/1- C Fundamentals/2- C data types/2- Format specifier.md",
+                "file": "C++/Methods/(.erase).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2- Format specifier"
+              "title": "(.erase)"
             }
           }
         ]
@@ -171,11 +171,27 @@
   },
   "active": "9202b644270802f2",
   "lastOpenFiles": [
+    "C++/Methods/(.pop_back).md",
+    "C++/Methods/(.erase).md",
+    "C++/Methods/(.substr).md",
+    "C++/Methods/list of methods.md",
+    "C++/Free functions/getline().md",
+    "C++/Free functions/list of free functions.md",
+    "C++/Containers/stack.md",
+    "C++/Containers/map.md",
+    "C++/sites.md",
+    "C++/Containers/list of containers.md",
+    "C++/Free functions",
+    "C++/Methods",
     "Pointers/why passing a pointer to a function.md",
+    "C++/Containers",
+    "zFiles/Pasted image 20251128052850.jpg",
+    "System calls/Common syscalls in c and c++.md",
+    "C++/4- Arrays/Vector.md",
+    "C/1- C Fundamentals/2- C data types/2- Format specifier.md",
     "C/1- C Fundamentals/1- C variable/1- Create variable.md",
     "Pointers",
     "C++/Socket programming/Server side.md",
-    "System calls/Common syscalls in c and c++.md",
     "C++/2- I and O stream/1- Input Output operators.md",
     "System calls",
     "C++/2- I and O stream/3- cout.md",
@@ -189,24 +205,8 @@
     "C/6- Socket Programming/1- Step for a connexion.md",
     "C/1- C Fundamentals/2- C data types/1- Data types.md",
     "C++/3- Pointers/2- Smart pointers.md",
-    "C++/3- Pointers/1- Pointers.md",
-    "C/4- Working with memory/2- C pointers/3- Pointers and arrays.md",
-    "C/4- Working with memory/2- C pointers/2- Initialization of pointer arrays.md",
-    "C/4- Working with memory/2- C pointers/1- Creating pointers.md",
     "C++/4- Arrays",
-    "C++/2- I and O stream/4- Manipulators.md",
     "C++/3- Pointers",
-    "C++/2- I and O stream",
-    "C++/1- Basics/3- constants.md",
-    "C++/1- Basics/1- Getting started.md",
-    "C++/1- Basics/2- basic syntax.md",
-    "C++/1- Basics",
-    "C/7- C Memory management/1- Dynamic memory management.md",
-    "C++",
-    "C",
-    "C/7- C Memory management/2- Storage classes.md",
-    "C/4- Working with memory/2- C pointers/Additional information.md",
-    "C/2- C Decision making/4- C for loop/1- For loop.md",
-    "zFiles/Pasted image 20251128052850.jpg"
+    "C++/2- I and O stream"
   ]
 }
