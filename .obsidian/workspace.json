@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Low level languages/C/1- C Fundamentals/1- C variable/5- Linkage.md",
+                "file": "High level languages/Phyton/Resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5- Linkage"
+              "title": "Resources"
             }
           }
         ]
@@ -169,8 +169,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "e4ae3c0808179862",
+  "active": "d067a3da92f7ee36",
   "lastOpenFiles": [
+    "Low level languages/Resources.md",
+    "High level languages/Phyton/Resources.md",
+    "Low level languages/C/1- C Fundamentals/1- C variable/5- Linkage.md",
     "Concepts",
     "Low level languages/C/1- C Fundamentals/1- C variable/4- Lvalue and Rvalue.md",
     "Low level languages/C/1- C Fundamentals/1- C variable/2- Format specifier.md",
@@ -209,10 +212,7 @@
     "Low level languages/C++/6- Libraries/Free functions/getline().md",
     "Low level languages/C++/6- Libraries/Containers/map.md",
     "Low level languages/C++/6- Libraries/Containers/list of containers.md",
-    "Low level languages/C++/6- Libraries/Methods/(.substr).md",
-    "Low level languages/C++/6- Libraries/Methods/(.pop_back).md",
     "Low level languages/C++/6- Libraries",
-    "Low level languages/C++/6- Libraries/Free functions",
-    "Low level languages/C++/6- Libraries/Methods"
+    "Low level languages/C++/6- Libraries/Free functions"
   ]
 }
