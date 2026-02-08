@@ -169,8 +169,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "d067a3da92f7ee36",
+  "active": "e4ae3c0808179862",
   "lastOpenFiles": [
+    "Concepts",
     "Low level languages/C/1- C Fundamentals/1- C variable/4- Lvalue and Rvalue.md",
     "Low level languages/C/1- C Fundamentals/1- C variable/2- Format specifier.md",
     "Low level languages/C/1- C Fundamentals/1- C variable/1- Create variable.md",
@@ -202,15 +203,14 @@
     "High level languages/Phyton/2 - Object Oriented Programing OOP",
     "High level languages/Phyton/1 - The basics",
     "High level languages/Phyton",
-    "Low level languages/Pointers/why passing a pointer to a function.md",
-    "Low level languages/System calls/Common syscalls in c and c++.md",
+    "Concepts/Pointers/why passing a pointer to a function.md",
+    "Concepts/System calls/Common syscalls in c and c++.md",
     "Low level languages/C++/6- Libraries/StringStreams.md",
     "Low level languages/C++/6- Libraries/Free functions/getline().md",
     "Low level languages/C++/6- Libraries/Containers/map.md",
     "Low level languages/C++/6- Libraries/Containers/list of containers.md",
     "Low level languages/C++/6- Libraries/Methods/(.substr).md",
     "Low level languages/C++/6- Libraries/Methods/(.pop_back).md",
-    "Low level languages/C++/6- Libraries/Methods/(.erase).md",
     "Low level languages/C++/6- Libraries",
     "Low level languages/C++/6- Libraries/Free functions",
     "Low level languages/C++/6- Libraries/Methods"
