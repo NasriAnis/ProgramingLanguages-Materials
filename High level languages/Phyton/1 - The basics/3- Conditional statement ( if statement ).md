@@ -1,5 +1,5 @@
 For conditional we use ==if statement== that executes a block of code if a condition is met.
-![[t.78f3bacaa261 1.png]]
+![](../../../zzDocument/t.78f3bacaa261%201.png)
 example :
 ```
 >>> x = 3

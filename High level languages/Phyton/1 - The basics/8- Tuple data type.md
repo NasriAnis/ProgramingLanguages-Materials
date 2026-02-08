@@ -15,7 +15,7 @@ Some of the most relevant characteristics of `tuple` objects include the follo
 A tuple is a sequence of comma-separated objects. To store objects in a tuple, you need to create the tuple object with all its content at one time.
 some of the way to create `tuples` :
 - Tuple [literals](https://en.wikipedia.org/wiki/Literal_\(computer_programming\))
-- The [[https://docs.python.org/3/library/stdtypes.html#tuple]] constructor
+- The [](https://docs.python.org/3/library/stdtypes.html#tuple) constructor
 ## Creating `tuples` through literals
 This method is straightforward its consist of a series of objects separated by comas inside parenthesis. The parenthesis are optional in metaobject tuples and single objects (but in this case the single object has to be followed by a coma) but in empty tuples its necessary. note that single object are not tuples unless you add a come at the end.
 example :

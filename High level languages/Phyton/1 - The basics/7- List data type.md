@@ -178,7 +178,7 @@ example :
 ['a', 'b', 'c', 'd']
 ```
 writing none tells to the slicing operators to use the default.
-![[Pasted image 20250730164148.png]]
+![](../../../zzDocument/Pasted%20image%2020250730164148.png)
 # Creating copies of a list :
 Making copies of an original list can be very helpful, so when you change a given list the original one doesn't get affected.
 In python there's two way to create copies of a list :
@@ -299,7 +299,7 @@ Here the `deepcopy()` function from the copy module is used :
 ```
 >>> from copy import deepcopy
 
->>> matrix = [[1, 2, 3]]
+>>> matrix = [1, 2, 3](1,%202,%203)
 >>> matrix_copy = deepcopy(matrix)
 
 >>> id(matrix) == id(matrix_copy)
@@ -320,24 +320,24 @@ example :
 >>> matrix_copy[0][1] = 200
 >>> matrix_copy[0][2] = 300
 >>> matrix_copy
-[[100, 200, 300]]
+[100, 200, 300](100,%20200,%20300)
 
 >>> matrix
-[[100, 200, 300]]
+[100, 200, 300](100,%20200,%20300)
 ```
 its better the write it like that :
 ```
->>> matrix = [[1, 2, 3]]
+>>> matrix = [1, 2, 3](1,%202,%203)
 
 >>> matrix_copy = deepcopy(matrix)
 >>> matrix_copy[0][0] = 100
 >>> matrix_copy[0][1] = 200
 >>> matrix_copy[0][2] = 300
 >>> matrix_copy
-[[100, 200, 300]]
+[100, 200, 300](100,%20200,%20300)
 
 >>> matrix
-[[1, 2, 3]]
+[1, 2, 3](1,%202,%203)
 ```
 Note : when you have a list containing immutable objects, such as numbers, strings, or tuples, the behavior of `deepcopy()` mimics what `copy()` does.
 # Updating Items in Lists: Index Assignments
@@ -459,7 +459,7 @@ print(items) # [1, 2, 3, 3.1, 3.2, 4, 5]
 ```
 ## Deleting Items From a List
 The methods are :
-![[Pasted image 20250731151915.png]]
+![](../../../zzDocument/Pasted%20image%2020250731151915.png)
 ### The `.remove()` method
 The `.remove()` method comes in handy when you want to remove an item from a list, but you don’t know the item’s index. If you have several items with the same value, then you can remove all of them by calling `.remove()` as many times as the item occurs.
 ### The `.pop()` method
@@ -533,7 +533,7 @@ You can combine `del` with an indexing or slicing operation to remove an item 
 >>> colors
 []
 ```
-# Considering Performance While Growing Lists[[https://realpython.com/python-list/#considering-performance-while-growing-lists "Permanent link"]]
+# Considering Performance While Growing Lists[](https://realpython.com/python-list/#considering-performance-while-growing-lists%20"Permanent%20link")
 
 When you create a list, Python allocates enough space to store the provided items. It also allocates extra space to host future items. When you use the extra space by adding new items to that list with `.append()`, `.extend()`, or `.insert()`, Python automatically creates room for additional new items.
 
@@ -562,7 +562,7 @@ Consider the following code to explore how Python grows a list dynamically:
 ...
 ```
 
-In this code snippet, you first import [[https://docs.python.org/3/library/sys.html#sys.getsizeof]] from the [[https://docs.python.org/3/library/sys.html#module-sys]] module. This function allows you to get the size of an object in bytes. Then you define `numbers` as an empty list.
+In this code snippet, you first import [](https://docs.python.org/3/library/sys.html#sys.getsizeof) from the [](https://docs.python.org/3/library/sys.html#module-sys) module. This function allows you to get the size of an object in bytes. Then you define `numbers` as an empty list.
 
 Inside the `for` loop, you get and [print](https://realpython.com/python-print/) your list object’s size in bytes. The first iteration shows that the size of your empty list is `56` bytes, which is the baseline size of every list in Python.
 
@@ -977,7 +977,7 @@ This output looks like what you need. It’s a list containing five nested lists
 Processing the data from a nested list can be a problem but flattening this data into a one dimensional list may be a common requirement. By flattening a list, you convert a multidimensional list, such as a matrix, into a one-dimensional list.
 example :
 ```
->>> matrix = [[0, 1, 2]]
+>>> matrix = [0, 1, 2](0,%201,%202)
 
 >>> flattened_list = []
 >>> for row in matrix:
@@ -1000,7 +1000,7 @@ Multiple solutions exists one of the way to do that :
 ...
 
 >>> split_list([1, 2, 3, 4, 5, 6, 7, 8, 9], 3)
-[[1, 2, 3]]
+[1, 2, 3](1,%202,%203)
 ```
 this piece of code firstly take a list object with a chunk size, after we create an empty list and a for loop that with the range function assign 3 different value to start the first one is 0 then 3 and after 6 (9 is not assigned because the range function stops at 9) after that we do a quick calculation to find where the .append needs to stop and add the list to chunks empty list.
 ## Using a List as a Stack or Queue
@@ -1023,4 +1023,4 @@ In contrast, avoid using lists when you need to:
 - **Store unique and unordered values**: In this scenario, consider using a set or dictionary. Sets don’t allow duplicated values, and dictionaries can’t hold duplicated keys.
 - **Run many membership tests where item doesn’t matter**: In this case, consider using a `set`. Sets are optimized for this type of operation.
 - **Run advanced array and matrix operations**: In these situations, consider using [NumPy’s](https://realpython.com/numpy-array-programming/) specialized data structures.
-- **Manipulate your data as a stack or queue**: In those cases, consider using [`deque`](https://realpython.com/python-deque/) from the [`collections`](https://realpython.com/python-collections-module/) module or [[https://realpython.com/queue-in-python/#asyncioqueue]], [[https://realpython.com/queue-in-python/#asynciolifoqueue]], or [[https://realpython.com/queue-in-python/#asynciopriorityqueue]]. These data types are thread-safe and optimized for fast inserting and removing on both ends.
+- **Manipulate your data as a stack or queue**: In those cases, consider using [`deque`](https://realpython.com/python-deque/) from the [`collections`](https://realpython.com/python-collections-module/) module or [](https://realpython.com/queue-in-python/#asyncioqueue), [](https://realpython.com/queue-in-python/#asynciolifoqueue), or [](https://realpython.com/queue-in-python/#asynciopriorityqueue). These data types are thread-safe and optimized for fast inserting and removing on both ends.

@@ -19,7 +19,7 @@ printf("%f", sum); // 2.000000
 # Usual type conversion
 Usual arithmetic conversions are implicitly performed to cast their values to a common type. The compiler first performs integer promotion; if the operands still have different types, then they are converted to the type that appears highest in the following hierarchy.
 
-![[Pasted image 20251128052850.jpg]]
+![Pasted image 20251128052850](Pasted%20image%2020251128052850.jpg)
 
 # Explicit Conversion
 This is done manually by placing the type in parentheses () in front of the value. this is done when you need to convert a data type with higher byte size to another data type with lower byte size.

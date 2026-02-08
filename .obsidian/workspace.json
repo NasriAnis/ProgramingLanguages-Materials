@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Low level languages/C/1- C Fundamentals/1- C variable/5- Linkage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "5- Linkage"
             }
           }
         ]
@@ -171,8 +171,23 @@
   },
   "active": "d067a3da92f7ee36",
   "lastOpenFiles": [
-    "High level languages/Phyton/1 - The basics/7- List data type.md",
+    "Low level languages/C/1- C Fundamentals/1- C variable/4- Lvalue and Rvalue.md",
+    "Low level languages/C/1- C Fundamentals/1- C variable/2- Format specifier.md",
+    "Low level languages/C/1- C Fundamentals/1- C variable/1- Create variable.md",
+    "High level languages/Phyton/Things to look after.md",
+    "High level languages/Phyton/Python Libraries/PyQt GUI library.md",
+    "High level languages/Phyton/Python Libraries/OS library.md",
+    "High level languages/Phyton/2 - Object Oriented Programing OOP/2- OOP Pillar.md",
+    "High level languages/Phyton/2 - Object Oriented Programing OOP/1- Classes.md",
     "High level languages/Phyton/1 - The basics/8- Tuple data type.md",
+    "High level languages/Phyton/1 - The basics/7- List data type.md",
+    "High level languages/Phyton/1 - The basics/6- Creating functions.md",
+    "High level languages/Phyton/1 - The basics/5- Exceptions in python.md",
+    "High level languages/Phyton/1 - The basics/4- Loops ( while loop and for loop ).md",
+    "High level languages/Phyton/1 - The basics/3- Conditional statement ( if statement ).md",
+    "High level languages/Phyton/1 - The basics/2- Math related functions and arithmetic operations..md",
+    "High level languages/Phyton/1 - The basics/1- Variable and data types..md",
+    "README.md",
     "zzDocument/try_except_else.703aaeeb63d3.avif",
     "zzDocument/try_except_else_finally.a7fac6c36c55.avif",
     "zzDocument/t.78f3bacaa261 1.png",
@@ -180,24 +195,12 @@
     "zzDocument/Pasted image 20251128052850.jpg",
     "zzDocument/Pasted image 20250731151915.png",
     "zzDocument/Pasted image 20250730164148.png",
-    "High level languages/Phyton/1 - The basics/3- Conditional statement ( if statement ).md",
-    "High level languages/Phyton/1 - The basics/4- Loops ( while loop and for loop ).md",
-    "High level languages/Phyton/1 - The basics/6- Creating functions.md",
-    "High level languages/Phyton/1 - The basics/5- Exceptions in python.md",
-    "High level languages/Phyton/Python Libraries/PyQt GUI library.md",
-    "High level languages/Phyton/Python Libraries/OS library.md",
-    "High level languages/Phyton/2 - Object Oriented Programing OOP/2- OOP Pillar.md",
-    "High level languages/Phyton/2 - Object Oriented Programing OOP/1- Classes.md",
-    "High level languages/Phyton/1 - The basics/2- Math related functions and arithmetic operations..md",
-    "High level languages/Phyton/1 - The basics/1- Variable and data types..md",
     "Low level languages",
     "High level languages",
-    "README.md",
     "zzDocument",
     "High level languages/Phyton/Python Libraries",
     "High level languages/Phyton/2 - Object Oriented Programing OOP",
     "High level languages/Phyton/1 - The basics",
-    "High level languages/Phyton/Things to look after.md",
     "High level languages/Phyton",
     "Low level languages/Pointers/why passing a pointer to a function.md",
     "Low level languages/System calls/Common syscalls in c and c++.md",
@@ -208,8 +211,6 @@
     "Low level languages/C++/6- Libraries/Methods/(.substr).md",
     "Low level languages/C++/6- Libraries/Methods/(.pop_back).md",
     "Low level languages/C++/6- Libraries/Methods/(.erase).md",
-    "Low level languages/C++/6- Libraries/Containers/stack.md",
-    "Low level languages/C++/6- Libraries/Methods/list of methods.md",
     "Low level languages/C++/6- Libraries",
     "Low level languages/C++/6- Libraries/Free functions",
     "Low level languages/C++/6- Libraries/Methods"

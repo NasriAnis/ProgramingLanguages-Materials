@@ -1,1 +1,1 @@
-Using the <math.h> header file [[math.h.md]].
+Using the <math.h> header file [math.h](math.h.md.md).

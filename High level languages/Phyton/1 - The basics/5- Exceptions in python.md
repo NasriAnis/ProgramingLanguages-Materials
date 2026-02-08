@@ -23,7 +23,7 @@ print(number)
 
 # Handling exception with `try`, `exept`,`else` and `finally`  block :
 In Python, you use the `try` and `except` block to catch and handle exceptions. Python executes code following the `try` statement as a normal part of the program. The code that follows the `except` statement is the program’s response to any exceptions in the preceding `try` clause. The `else` statement is not obligatory and put at the end of the `try exept` clause and executes only when no `exept` is run.
-![[try_except_else_finally.a7fac6c36c55.avif]]
+![](../../../zzDocument/try_except_else_finally.a7fac6c36c55.avif)
 example:
 ```
 x = input("Choose a number : ")
