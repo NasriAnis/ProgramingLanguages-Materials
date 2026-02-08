@@ -1,4 +1,8 @@
 {
   "alwaysUpdateLinks": true,
-  "vimMode": false
+  "vimMode": false,
+  "attachmentFolderPath": "zzDocument",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "readableLineLength": false
 }

@@ -1,1 +1,0 @@
-Using the <math.h> header file [[math.h]].
