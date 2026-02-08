@@ -12,7 +12,6 @@
   10. **Copyable**: They allow you to make copies of their content using various techniques.
 # Constructing lists :
 There's several ways to create lists in python : `list literals`, `the list() constructor`, `a list comprehenssion`.
-
 ## Creating lists through literals :
 This is the simplest way :
 ```

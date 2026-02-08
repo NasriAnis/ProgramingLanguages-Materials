@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "High level languages/Phyton/1 - The basics/7- List data type.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7- List data type"
+              "title": "README"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "d067a3da92f7ee36",
   "lastOpenFiles": [
+    "High level languages/Phyton/1 - The basics/7- List data type.md",
     "High level languages/Phyton/1 - The basics/8- Tuple data type.md",
     "zzDocument/try_except_else.703aaeeb63d3.avif",
     "zzDocument/try_except_else_finally.a7fac6c36c55.avif",
@@ -181,7 +182,6 @@
     "zzDocument/Pasted image 20250730164148.png",
     "High level languages/Phyton/1 - The basics/3- Conditional statement ( if statement ).md",
     "High level languages/Phyton/1 - The basics/4- Loops ( while loop and for loop ).md",
-    "High level languages/Phyton/1 - The basics/7- List data type.md",
     "High level languages/Phyton/1 - The basics/6- Creating functions.md",
     "High level languages/Phyton/1 - The basics/5- Exceptions in python.md",
     "High level languages/Phyton/Python Libraries/PyQt GUI library.md",
