@@ -1,3 +1,6 @@
+https://www.geeksforgeeks.org/cpp/stringstream-c-applications/
+https://cplusplus.com/reference/sstream/stringstream/
+
 using string streams through the `<sstream>` library help in storing input to a stream then extracting data with `>>` to a variable or file (the data will not be available on the stream) and with `<<` it stores it to the steam.
 
 it could also help transform different data type.
