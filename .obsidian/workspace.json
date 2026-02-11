@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "High level languages/Phyton/Resources.md",
+                "file": "Low level languages/Asembly/Ways of writing assembly/inline/GCC gas/basic form.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resources"
+              "title": "basic form"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 324.5
   },
   "right": {
     "id": "efd334edbe345704",
@@ -169,50 +169,52 @@
       "bases:Create new base": false
     }
   },
-  "active": "d067a3da92f7ee36",
+  "active": "e4ae3c0808179862",
   "lastOpenFiles": [
-    "Low level languages/Resources.md",
+    "Low level languages/Asembly/Writing Assembly/Working with the stack/Stack pointer.md",
+    "Low level languages/Asembly/Writing Assembly/Working with the stack/Stack frame.md",
+    "Low level languages/Asembly/Writing Assembly/Working with the stack/push & pop.md",
+    "Low level languages/Asembly/Writing Assembly/Working with data/endian order.md",
+    "Low level languages/Asembly/Writing Assembly/Working with data/dereferencing - memory read&write.md",
+    "Low level languages/Asembly/Writing Assembly/Working with data/Byte data access.md",
+    "Low level languages/Asembly/Writing Assembly/Operations/Arithmetic Operations.md",
+    "Low level languages/Asembly/Writing Assembly/Control flow/relative jump.md",
+    "Low level languages/Asembly/Writing Assembly/Control flow/indirect jump.md",
+    "Low level languages/Asembly/Writing Assembly/Control flow/control flow with jump.md",
+    "Low level languages/Asembly/Writing Assembly/Control flow/conditional jump.md",
+    "Low level languages/Asembly/Ways of writing assembly/standalone/Building standalone.md",
+    "Low level languages/Asembly/1- Ways of writing assembly/-.md",
+    "Low level languages/Asembly/Ways of writing assembly/inline/GCC gas/Writing bytes to get asm.md",
+    "zzDocument/Pasted image 20251223131843.png",
+    "zzDocument/Pasted image 20251223131729.png",
+    "Low level languages/Asembly/Ways of writing assembly/inline/GCC gas/basic form.md",
+    "zzDocument/Pasted image 20251223131421.png",
+    "zzDocument/Pasted image 20251223131011.png",
+    "zzDocument/Pasted image 20251223130744.png",
+    "zzDocument/Pasted image 20251223130225.png",
+    "zzDocument/Pasted image 20251223130025.png",
     "High level languages/Phyton/Resources.md",
+    "Low level languages/Asembly/Ways of writing assembly/inline/GCC gas",
+    "Low level languages/Asembly/Ways of writing assembly/standalone",
+    "Low level languages/Asembly/Ways of writing assembly/inline",
+    "Low level languages/Asembly/Ways of writing assembly",
+    "Low level languages/Asembly/Writing Assembly/Working with data",
+    "Low level languages/Asembly/Writing Assembly/Operations/Logic operations.md",
+    "Low level languages/Asembly/Writing Assembly/Operations",
+    "Low level languages/Asembly/Writing Assembly/Working with the stack",
+    "Low level languages/Asembly/Writing Assembly/Control flow",
+    "Low level languages/Asembly/Writing Assembly",
+    "Low level languages/Asembly",
+    "Low level languages/Resources.md",
     "Low level languages/C/1- C Fundamentals/1- C variable/5- Linkage.md",
-    "Concepts",
     "Low level languages/C/1- C Fundamentals/1- C variable/4- Lvalue and Rvalue.md",
     "Low level languages/C/1- C Fundamentals/1- C variable/2- Format specifier.md",
     "Low level languages/C/1- C Fundamentals/1- C variable/1- Create variable.md",
     "High level languages/Phyton/Things to look after.md",
     "High level languages/Phyton/Python Libraries/PyQt GUI library.md",
     "High level languages/Phyton/Python Libraries/OS library.md",
-    "High level languages/Phyton/2 - Object Oriented Programing OOP/2- OOP Pillar.md",
-    "High level languages/Phyton/2 - Object Oriented Programing OOP/1- Classes.md",
-    "High level languages/Phyton/1 - The basics/8- Tuple data type.md",
-    "High level languages/Phyton/1 - The basics/7- List data type.md",
-    "High level languages/Phyton/1 - The basics/6- Creating functions.md",
-    "High level languages/Phyton/1 - The basics/5- Exceptions in python.md",
-    "High level languages/Phyton/1 - The basics/4- Loops ( while loop and for loop ).md",
-    "High level languages/Phyton/1 - The basics/3- Conditional statement ( if statement ).md",
-    "High level languages/Phyton/1 - The basics/2- Math related functions and arithmetic operations..md",
-    "High level languages/Phyton/1 - The basics/1- Variable and data types..md",
-    "README.md",
     "zzDocument/try_except_else.703aaeeb63d3.avif",
     "zzDocument/try_except_else_finally.a7fac6c36c55.avif",
-    "zzDocument/t.78f3bacaa261 1.png",
-    "zzDocument/t.78f3bacaa261.png",
-    "zzDocument/Pasted image 20251128052850.jpg",
-    "zzDocument/Pasted image 20250731151915.png",
-    "zzDocument/Pasted image 20250730164148.png",
-    "Low level languages",
-    "High level languages",
-    "zzDocument",
-    "High level languages/Phyton/Python Libraries",
-    "High level languages/Phyton/2 - Object Oriented Programing OOP",
-    "High level languages/Phyton/1 - The basics",
-    "High level languages/Phyton",
-    "Concepts/Pointers/why passing a pointer to a function.md",
-    "Concepts/System calls/Common syscalls in c and c++.md",
-    "Low level languages/C++/6- Libraries/StringStreams.md",
-    "Low level languages/C++/6- Libraries/Free functions/getline().md",
-    "Low level languages/C++/6- Libraries/Containers/map.md",
-    "Low level languages/C++/6- Libraries/Containers/list of containers.md",
-    "Low level languages/C++/6- Libraries",
-    "Low level languages/C++/6- Libraries/Free functions"
+    "zzDocument/t.78f3bacaa261 1.png"
   ]
 }
