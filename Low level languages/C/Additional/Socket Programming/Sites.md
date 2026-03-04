@@ -1,0 +1,1 @@
+- https://www.codequoi.com/en/sockets-and-network-programming-in-c/#what-are-sockets

@@ -11,14 +11,12 @@
             "id": "d067a3da92f7ee36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Resources/Sites.md",
-                "mode": "source",
-                "source": false
+                "file": "Resources/PDFs/Data Structures and Programming Techniques.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Sites"
+              "icon": "lucide-file-text",
+              "title": "Data Structures and Programming Techniques"
             }
           }
         ]
@@ -171,14 +169,20 @@
   },
   "active": "e4ae3c0808179862",
   "lastOpenFiles": [
+    "Low level languages/C/Additional/Socket Programming/3- Complete guide.md",
+    "Low level languages/C/Additional/Socket Programming/2- How it work.md",
+    "Low level languages/C/Additional/Socket Programming/1- Step for a connexion.md",
+    "Low level languages/C/7- C Memory management/1- Dynamic memory management.md",
+    "Low level languages/C/Additional",
+    "Low level languages/C/1- C Fundamentals/5- C arrays/1- Arrays.md",
+    "Low level languages/C/1- C Fundamentals/1- C variable/1- Create variable.md",
+    "Low level languages/C/1- C Fundamentals/1- C variable/2- Format specifier.md",
+    "Resources/Sites.md",
     "Resources/PDFs",
     "Low level languages/Resources.md",
-    "Resources/Sites.md",
     "Resources",
     "Low level languages/C/1- C Fundamentals/2- C data types/2- Format specifier.md",
     "Low level languages/C/1- C Fundamentals/2- C data types/1- Data types.md",
-    "Low level languages/C/1- C Fundamentals/1- C variable/2- Format specifier.md",
-    "Low level languages/C/1- C Fundamentals/1- C variable/1- Create variable.md",
     "Low level languages/Asembly/Ways of writing assembly/inline/GCC gas/basic form.md",
     "Low level languages/Asembly/Writing Assembly/Working with the stack/Stack pointer.md",
     "Low level languages/Asembly/Writing Assembly/Working with the stack/Stack frame.md",
@@ -201,19 +205,13 @@
     "zzDocument/Pasted image 20251223130744.png",
     "zzDocument/Pasted image 20251223130225.png",
     "zzDocument/Pasted image 20251223130025.png",
-    "High level languages/Phyton/Resources.md",
     "Low level languages/Asembly/Ways of writing assembly/inline/GCC gas",
     "Low level languages/Asembly/Ways of writing assembly/standalone",
     "Low level languages/Asembly/Ways of writing assembly/inline",
     "Low level languages/Asembly/Ways of writing assembly",
     "Low level languages/Asembly/Writing Assembly/Working with data",
-    "Low level languages/Asembly/Writing Assembly/Operations/Logic operations.md",
     "Low level languages/Asembly/Writing Assembly/Operations",
     "Low level languages/Asembly/Writing Assembly/Working with the stack",
-    "Low level languages/Asembly/Writing Assembly/Control flow",
-    "Low level languages/Asembly/Writing Assembly",
-    "Low level languages/C/1- C Fundamentals/1- C variable/5- Linkage.md",
-    "Low level languages/C/1- C Fundamentals/1- C variable/4- Lvalue and Rvalue.md",
     "zzDocument/try_except_else.703aaeeb63d3.avif",
     "zzDocument/try_except_else_finally.a7fac6c36c55.avif",
     "zzDocument/t.78f3bacaa261 1.png"
