@@ -11,12 +11,14 @@
             "id": "389b1bf993226868",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Resources/PDFs/Data Structures and Programming Techniques.pdf"
+                "file": "Resources/Sites.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Data Structures and Programming Techniques"
+              "icon": "lucide-file",
+              "title": "Sites"
             }
           }
         ]
@@ -167,11 +169,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "e4ae3c0808179862",
+  "active": "389b1bf993226868",
   "lastOpenFiles": [
+    "Resources/PDFs/Data Structures and Programming Techniques.pdf",
     "Concepts/Cache",
     "Concepts/Cache/Cache Performance.md",
-    "Resources/PDFs/Data Structures and Programming Techniques.pdf",
     "zzDocument/Pasted image 20260412150146.png",
     "Low level languages/C/Side Notes/Unsigned and signed integers mapping to assembly.md",
     "Low level languages/Misc",
