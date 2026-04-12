@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b64d4b398b935b9f",
+        "id": "b9c8dbff467447ed",
         "type": "tabs",
         "children": [
           {
-            "id": "d067a3da92f7ee36",
+            "id": "389b1bf993226868",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "%f",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 237.5
   },
   "right": {
     "id": "efd334edbe345704",
@@ -169,6 +169,15 @@
   },
   "active": "e4ae3c0808179862",
   "lastOpenFiles": [
+    "Concepts/Cache",
+    "Concepts/Cache/Cache Performance.md",
+    "Resources/PDFs/Data Structures and Programming Techniques.pdf",
+    "zzDocument/Pasted image 20260412150146.png",
+    "Low level languages/C/Side Notes/Unsigned and signed integers mapping to assembly.md",
+    "Low level languages/Misc",
+    "zzDocument/Pasted image 20260409151204.png",
+    "zzDocument/Pasted image 20260409150846.png",
+    "Low level languages/C/Side Notes",
     "Low level languages/C/Additional/Socket Programming/3- Complete guide.md",
     "Low level languages/C/Additional/Socket Programming/2- How it work.md",
     "Low level languages/C/Additional/Socket Programming/1- Step for a connexion.md",
@@ -195,9 +204,6 @@
     "Low level languages/Asembly/Writing Assembly/Control flow/indirect jump.md",
     "Low level languages/Asembly/Writing Assembly/Control flow/control flow with jump.md",
     "Low level languages/Asembly/Writing Assembly/Control flow/conditional jump.md",
-    "Low level languages/Asembly/Ways of writing assembly/standalone/Building standalone.md",
-    "Low level languages/Asembly/1- Ways of writing assembly/-.md",
-    "Low level languages/Asembly/Ways of writing assembly/inline/GCC gas/Writing bytes to get asm.md",
     "zzDocument/Pasted image 20251223131843.png",
     "zzDocument/Pasted image 20251223131729.png",
     "zzDocument/Pasted image 20251223131421.png",
@@ -208,12 +214,6 @@
     "Low level languages/Asembly/Ways of writing assembly/inline/GCC gas",
     "Low level languages/Asembly/Ways of writing assembly/standalone",
     "Low level languages/Asembly/Ways of writing assembly/inline",
-    "Low level languages/Asembly/Ways of writing assembly",
-    "Low level languages/Asembly/Writing Assembly/Working with data",
-    "Low level languages/Asembly/Writing Assembly/Operations",
-    "Low level languages/Asembly/Writing Assembly/Working with the stack",
-    "zzDocument/try_except_else.703aaeeb63d3.avif",
-    "zzDocument/try_except_else_finally.a7fac6c36c55.avif",
-    "zzDocument/t.78f3bacaa261 1.png"
+    "Low level languages/Asembly/Ways of writing assembly"
   ]
 }
