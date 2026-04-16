@@ -11,14 +11,12 @@
             "id": "389b1bf993226868",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Low level languages/C/3- C functions/1- Functions.md",
-                "mode": "source",
-                "source": false
+                "file": "Low level languages/Rust/The Rust Programming Language.pdf"
               },
-              "icon": "lucide-file",
-              "title": "1- Functions"
+              "icon": "lucide-file-text",
+              "title": "The Rust Programming Language"
             }
           }
         ]
@@ -74,8 +72,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,6 +169,8 @@
   },
   "active": "389b1bf993226868",
   "lastOpenFiles": [
+    "Low level languages/Rust/Rust By Example.pdf",
+    "Low level languages/C/3- C functions/1- Functions.md",
     "High level languages/Phyton/1 - The basics/2- Math related functions and arithmetic operations..md",
     "High level languages/Phyton/1 - The basics/1- Variable and data types..md",
     "Resources/Sites.md",
@@ -206,8 +205,6 @@
     "Low level languages/Asembly/Writing Assembly/Working with data/Byte data access.md",
     "Low level languages/Asembly/Writing Assembly/Operations/Arithmetic Operations.md",
     "Low level languages/Asembly/Writing Assembly/Control flow/relative jump.md",
-    "Low level languages/Asembly/Writing Assembly/Control flow/indirect jump.md",
-    "Low level languages/Asembly/Writing Assembly/Control flow/control flow with jump.md",
     "zzDocument/Pasted image 20251223131843.png",
     "zzDocument/Pasted image 20251223131729.png",
     "zzDocument/Pasted image 20251223131421.png",
