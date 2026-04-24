@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b9c8dbff467447ed",
+        "id": "077cfd3f6ff5b946",
         "type": "tabs",
         "children": [
           {
-            "id": "389b1bf993226868",
+            "id": "73146c53617a46fb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Low level languages/C/Resources/beej-c.pdf"
+                "file": "Low level languages/C/7- C Memory management/1- Dynamic memory management.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "beej-c"
+              "icon": "lucide-file",
+              "title": "1- Dynamic memory management"
             }
           }
         ]
@@ -76,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 249.5
   },
   "right": {
     "id": "efd334edbe345704",
@@ -167,13 +169,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "389b1bf993226868",
+  "active": "73146c53617a46fb",
   "lastOpenFiles": [
+    "Low level languages/Rust/Rust By Practice.pdf",
     "Low level languages/Rust/The Rust Programming Language.pdf",
+    "Low level languages/Rust/The Cargo Book.pdf",
+    "Low level languages/Rust/Rust By Example.pdf",
+    "Low level languages/C++/sites.md",
     "Low level languages/C/Resources/beej-c.pdf",
     "Low level languages/C/Resources/Unconfirmed 959215.crdownload",
     "Low level languages/C/Resources",
-    "Low level languages/Rust/Rust By Example.pdf",
     "Low level languages/C/3- C functions/1- Functions.md",
     "High level languages/Phyton/1 - The basics/2- Math related functions and arithmetic operations..md",
     "High level languages/Phyton/1 - The basics/1- Variable and data types..md",
@@ -191,11 +196,9 @@
     "Low level languages/C/Additional/Socket Programming/2- How it work.md",
     "Low level languages/C/Additional/Socket Programming/1- Step for a connexion.md",
     "Low level languages/C/7- C Memory management/1- Dynamic memory management.md",
-    "Low level languages/C/Additional",
     "Low level languages/C/1- C Fundamentals/5- C arrays/1- Arrays.md",
     "Low level languages/C/1- C Fundamentals/1- C variable/1- Create variable.md",
     "Low level languages/C/1- C Fundamentals/1- C variable/2- Format specifier.md",
-    "Resources/PDFs",
     "Low level languages/Resources.md",
     "Low level languages/C/1- C Fundamentals/2- C data types/2- Format specifier.md",
     "Low level languages/C/1- C Fundamentals/2- C data types/1- Data types.md",
@@ -207,7 +210,6 @@
     "Low level languages/Asembly/Writing Assembly/Working with data/dereferencing - memory read&write.md",
     "Low level languages/Asembly/Writing Assembly/Working with data/Byte data access.md",
     "Low level languages/Asembly/Writing Assembly/Operations/Arithmetic Operations.md",
-    "Low level languages/Asembly/Writing Assembly/Control flow/relative jump.md",
     "zzDocument/Pasted image 20251223131843.png",
     "zzDocument/Pasted image 20251223131729.png",
     "zzDocument/Pasted image 20251223131421.png",
