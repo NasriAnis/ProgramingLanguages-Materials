@@ -1,0 +1,1 @@
+functions are declared using the `fn` keyword.
