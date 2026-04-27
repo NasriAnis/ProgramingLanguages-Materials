@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Low level languages/Rust/3- Functions/3- Statements and expressions.md",
+                "file": "Low level languages/Rust/4- Control flow/1- If expressions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3- Statements and expressions"
+              "title": "1- If expressions"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "right": {
     "id": "efd334edbe345704",
@@ -172,8 +171,11 @@
   },
   "active": "44b630703d51bfdc",
   "lastOpenFiles": [
-    "Low level languages/Rust/3- Functions/2- Parameters.md",
+    "Low level languages/Rust/3- Functions/4- Functions with return values.md",
+    "Low level languages/Rust/4- Control flow/1- If expressions.md",
+    "Low level languages/Rust/4- Control flow",
     "Low level languages/Rust/3- Functions/3- Statements and expressions.md",
+    "Low level languages/Rust/3- Functions/2- Parameters.md",
     "Low level languages/Rust/3- Functions/1- Functions.md",
     "Low level languages/Rust/Side notes/reference.md",
     "Low level languages/Rust/3- Functions",
@@ -196,7 +198,6 @@
     "Low level languages/Rust/Rust Official Docs/The Rust Programming Language.pdf",
     "Low level languages/Rust/Rust Official Docs/The Cargo Book.pdf",
     "Low level languages/Rust/Rust Official Docs/Rust By Practice.pdf",
-    "Low level languages/Rust/Rust Official Docs/Rust By Example.pdf",
     "Low level languages/Rust/1- Common Concepts/2- Constants.md",
     "Low level languages/Rust/1- Common Concepts/1- Variables and mutability.md",
     "Low level languages/C/7- C Memory management/1- Dynamic memory management.md",
@@ -210,8 +211,6 @@
     "Low level languages/C/Side Notes/Unsigned and signed integers mapping to assembly.md",
     "zzDocument/Pasted image 20260409151204.png",
     "zzDocument/Pasted image 20260409150846.png",
-    "Low level languages/C/Additional/Socket Programming/3- Complete guide.md",
-    "Low level languages/C/Additional/Socket Programming/2- How it work.md",
     "zzDocument/Pasted image 20251223131843.png",
     "zzDocument/Pasted image 20251223131729.png",
     "zzDocument/Pasted image 20251223131421.png",
