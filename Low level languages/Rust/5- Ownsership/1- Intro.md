@@ -1,0 +1,1 @@
+ownership manages data present into the heap.

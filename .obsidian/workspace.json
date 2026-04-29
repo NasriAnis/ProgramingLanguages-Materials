@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Low level languages/Rust/4- Control flow/1- If expressions.md",
+                "file": "Low level languages/Rust/5- Ownsership/6- Stack-Only Data -> Copy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1- If expressions"
+              "title": "6- Stack-Only Data -> Copy"
             }
           }
         ]
@@ -169,14 +169,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "e4ae3c0808179862",
+  "active": "44b630703d51bfdc",
   "lastOpenFiles": [
+    "Low level languages/Rust/5- Ownsership/5- Variables and Data Interacting with Clone.md",
+    "Low level languages/Rust/5- Ownsership/6- Stack-Only Data -> Copy.md",
+    "Low level languages/Rust/5- Ownsership/4- Memory and allocation.md",
+    "zzDocument/Pasted image 20260429112931.png",
+    "zzDocument/Pasted image 20260429112256.png",
+    "Low level languages/Rust/5- Ownsership/3- Variable scope and heap cleaning.md",
+    "Low level languages/Rust/5- Ownsership/4- String type.md",
+    "Low level languages/Rust/5- Ownsership/2- Rules.md",
+    "Low level languages/Rust/5- Ownsership/1- Intro.md",
+    "Low level languages/Rust/4- Control flow/1- If expressions.md",
     "Low level languages/Rust/5- Ownsership/1- Understand ownership",
     "Low level languages/Rust/5- Ownsership",
     "Low level languages/Rust/4- Control flow/4- for.md",
     "Low level languages/Rust/4- Control flow/3- While.md",
     "Low level languages/Rust/4- Control flow/2- Loop.md",
-    "Low level languages/Rust/4- Control flow/1- If expressions.md",
     "Low level languages/Rust/3- Functions/4- Functions with return values.md",
     "Low level languages/Rust/4- Control flow",
     "Low level languages/Rust/3- Functions/3- Statements and expressions.md",
@@ -201,21 +210,12 @@
     "Low level languages/Rust/2- Data Types/1- Scalar type",
     "Low level languages/Rust/Rust Official Docs/The Rust Reference.pdf",
     "Low level languages/Rust/Rust Official Docs/The Rust Programming Language.pdf",
-    "Low level languages/Rust/Rust Official Docs/The Cargo Book.pdf",
-    "Low level languages/Rust/1- Common Concepts/2- Constants.md",
-    "Low level languages/Rust/1- Common Concepts/1- Variables and mutability.md",
-    "Low level languages/C/7- C Memory management/1- Dynamic memory management.md",
-    "Low level languages/C++/sites.md",
-    "Low level languages/C/3- C functions/1- Functions.md",
-    "High level languages/Phyton/1 - The basics/2- Math related functions and arithmetic operations..md",
     "zzDocument/Pasted image 20260412150146.png",
     "zzDocument/Pasted image 20260409151204.png",
     "zzDocument/Pasted image 20260409150846.png",
     "zzDocument/Pasted image 20251223131843.png",
     "zzDocument/Pasted image 20251223131729.png",
     "zzDocument/Pasted image 20251223131421.png",
-    "zzDocument/Pasted image 20251223131011.png",
-    "zzDocument/Pasted image 20251223130744.png",
-    "zzDocument/Pasted image 20251223130225.png"
+    "zzDocument/Pasted image 20251223131011.png"
   ]
 }
