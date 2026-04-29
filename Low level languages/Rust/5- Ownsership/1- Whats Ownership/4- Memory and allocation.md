@@ -14,7 +14,7 @@ let y = x
 
 the data is not copied into a new place into the heap, the data information as pointer, size, length are given to y, after that x is no longer valid. (because when the scope end we cant free the same place pointed by two different variables its like freeing a freed memory location) :
 
-![](../../../zzDocument/Pasted%20image%2020260429112256.png)
+![](../../../../zzDocument/Pasted%20image%2020260429112256.png)
 
 In addition, there’s a design choice that’s implied by this: Rust will never automatically create “deep” copies of your data. Therefore, any _automatic_ copying can be assumed to be inexpensive in terms of runtime performance.
 
@@ -29,4 +29,4 @@ The inverse of this is true for the relationship between scoping, ownership, and
     println!("{s}, world!");
 ```
 
-![](../../../zzDocument/Pasted%20image%2020260429112931.png)
+![](../../../../zzDocument/Pasted%20image%2020260429112931.png)
