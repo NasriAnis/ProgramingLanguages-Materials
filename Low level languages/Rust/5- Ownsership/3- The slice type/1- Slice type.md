@@ -1,0 +1,1 @@
+A slice is a reference to a sequence of elements.
