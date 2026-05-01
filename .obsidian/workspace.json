@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Low level languages/Rust/5- Ownsership/3- The slice type/2- String slice.md",
+                "file": "Low level languages/Rust/2- Data Types/2- Compound types/2- Tuple.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2- String slice"
+              "title": "2- Tuple"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "function",
+                "query": "destructur",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,11 +169,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "44b630703d51bfdc",
+  "active": "e4ae3c0808179862",
   "lastOpenFiles": [
+    "Low level languages/Rust/6- Using Structs and structure related data/1- Defining and instantiating structs.md",
+    "Low level languages/Rust/5- Ownsership/3- The slice type/4- Other Slices.md",
+    "Low level languages/Rust/6- Using Structs and structure related data",
+    "Low level languages/Rust/Untitled.md",
+    "Low level languages/Rust/5- Ownsership/3- The slice type/3- String literals as slices and parametters.md",
+    "Low level languages/Rust/5- Ownsership/3- The slice type/4- String Slice as parameters.md",
+    "Low level languages/Rust/5- Ownsership/3- The slice type/2- String slice.md",
     "zzDocument/Pasted image 20260430094930.png",
     "Low level languages/Rust/5- Ownsership/3- The slice type/1- Slice type.md",
-    "Low level languages/Rust/5- Ownsership/3- The slice type/2- String slice.md",
     "Low level languages/Rust/Methods/List of methods.md",
     "Low level languages/Rust/4- Control flow/2- Loop.md",
     "Low level languages/Rust/Methods",
@@ -200,22 +206,16 @@
     "Low level languages/Rust/5- Ownsership/1- Whats Ownership/3- Variable scope and heap cleaning.md",
     "Low level languages/Rust/5- Ownsership/4- String type.md",
     "Low level languages/Rust/5- Ownsership/1- Whats Ownership/2- Rules.md",
-    "Low level languages/Rust/5- Ownsership/1- Whats Ownership/1- Intro.md",
-    "Low level languages/Rust/4- Control flow/1- If expressions.md",
     "Low level languages/Rust/5- Ownsership/1- Understand ownership",
     "Low level languages/Rust/5- Ownsership",
     "Low level languages/Rust/4- Control flow",
-    "Low level languages/Rust/3- Functions/3- Statements and expressions.md",
-    "Low level languages/Rust/3- Functions/1- Functions.md",
     "Low level languages/Rust/3- Functions",
     "Low level languages/Rust/Side notes",
-    "Low level languages/Rust/2- Data Types/2- Compound types",
     "zzDocument/Pasted image 20260426134733.png",
     "zzDocument/Pasted image 20260412150146.png",
     "zzDocument/Pasted image 20260409151204.png",
     "zzDocument/Pasted image 20260409150846.png",
     "zzDocument/Pasted image 20251223131843.png",
-    "zzDocument/Pasted image 20251223131729.png",
-    "zzDocument/Pasted image 20251223131421.png"
+    "zzDocument/Pasted image 20251223131729.png"
   ]
 }

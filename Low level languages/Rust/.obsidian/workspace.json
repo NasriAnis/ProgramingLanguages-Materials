@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "146e650f684eab03",
+    "type": "split",
+    "children": [
+      {
+        "id": "21e1a029b39c0364",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d323e3fec6595f95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6- Using Structs and structure related data/2- Methods/2- Methods with more parameters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2- Methods with more parameters"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "42c7ffd411c1ef9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae2321aab3442ef6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f7abd499cfb0faa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6e486c66ec3096bb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "dest",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7586f74c6d8f22a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 251.5
+  },
+  "right": {
+    "id": "eb43dc40ef67e415",
+    "type": "split",
+    "children": [
+      {
+        "id": "aebce3f5e50f40e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce5831ad4245adc0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6- Using Structs and structure related data/1- Defining and instantiating structs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1- Defining and instantiating structs"
+            }
+          },
+          {
+            "id": "db3dd4623265a3ff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6- Using Structs and structure related data/1- Defining and instantiating structs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1- Defining and instantiating structs"
+            }
+          },
+          {
+            "id": "3c56e314a9ab9f8d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9f8cdabcc73dfe08",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4107fd84bf0ea021",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6- Using Structs and structure related data/1- Defining and instantiating structs.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1- Defining and instantiating structs"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d323e3fec6595f95",
+  "lastOpenFiles": [
+    "6- Using Structs and structure related data/2- Methods/1- Syntax.md",
+    "6- Using Structs and structure related data/2- Methods/2- Methods with more parameters.md",
+    "6- Using Structs and structure related data/2- Methods/List of methods.md",
+    "6- Using Structs and structure related data/1- Structures/5- Adding Functionality with Derived Traits.md",
+    "6- Using Structs and structure related data/2- Methods",
+    "6- Using Structs and structure related data/1- Structures/1- Defining and instantiating structs.md",
+    "6- Using Structs and structure related data/1- Structures/4- Defining unit like structs.md",
+    "6- Using Structs and structure related data/1- Structures/3- Tuple structs.md",
+    "6- Using Structs and structure related data/1- Structures/2- Struct update syntax.md",
+    "6- Using Structs and structure related data/1- Defining and instantiating structs.md",
+    "6- Using Structs and structure related data/1- Structures",
+    "2- Data Types/2- Compound types/2- Tuple.md"
+  ]
+}
