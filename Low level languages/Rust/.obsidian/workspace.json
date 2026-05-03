@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7- Enums and pattern matching/3- option enum.md",
+                "file": "8- Packages, crates and modules/2- packages and crates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3- option enum"
+              "title": "2- packages and crates"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dest",
+                "query": "copy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,8 +183,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "d323e3fec6595f95",
+  "active": "2f7abd499cfb0faa",
   "lastOpenFiles": [
+    "8- Packages, crates and modules/1- intro.md",
+    "8- Packages, crates and modules/2- packages and crates.md",
+    "7- Enums and pattern matching/5- if let and let ... else.md",
+    "8- Packages, crates and modules",
     "7- Enums and pattern matching/4- match control flow construct.md",
     "7- Enums and pattern matching/3- option enum.md",
     "7- Enums and pattern matching/2- enum definition.md",

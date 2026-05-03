@@ -1,7 +1,7 @@
 this is defined by the standard library :
 
 ```
-enum Option<T> {
+enum Option<T> {// the <t> is a generic type indicator
     None,
     Some(T),
 }
@@ -22,6 +22,12 @@ match find_port("http") {
     Some(port) => println!("{}", port),  // ← port is now a plain u16, unwrapped
     None       => println!("not found"),
 }
+```
+
+```
+let some_number = Some(5);
+let some_char = Some('e');
+let absent_number: Option<i32> = None; // even for none the type shoud be specified
 ```
 
 `Option` handles **the absence of a value** in general. That includes:
@@ -51,3 +57,7 @@ x + y  // COMPILE ERROR — you must unwrap y first
 ```
 
 The key rule: **if a variable's type is not `Option<T>`, it is guaranteed to never be null.** No checking needed. The possibility of absence is encoded in the type itself.
+
+In other words, you have to convert an `Option<T>` to a `T` before you can perform `T` operations with it. Generally, this helps catch one of the most common issues with null: assuming that something isn’t null when it actually is. Then, when you use that value, you are required to explicitly handle the case when the value is null.
+
+The `match` expression is a control flow construct that does just this when used with enums: It will run different code depending on which variant of the enum it has, and that code can use the data inside the matching value.
