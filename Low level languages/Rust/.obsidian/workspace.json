@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9- Common Collections/3- Hash maps.md",
+                "file": "6- Using Structs and structure related data/2- Methods/1- Syntax.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3- Hash maps"
+              "title": "1- Syntax"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "copy",
+                "query": "debug",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -185,9 +186,12 @@
   },
   "active": "d323e3fec6595f95",
   "lastOpenFiles": [
-    "9- Common Collections/2- Storing UTF-8 Encoded Text with Strings.md",
-    "9- Common Collections/3- Hash maps.md",
     "9- Common Collections/1- List of values with vector.md",
+    "9- Common Collections/2- Storing UTF-8 Encoded Text with Strings.md",
+    "5- Ownsership/3- The slice type/1- Slice type.md",
+    "9- Common Collections/3- Hash maps.md",
+    "6- Using Structs and structure related data/1- Structures/2- Struct update syntax.md",
+    "5- Ownsership/1- Whats Ownership/7- Ownership and functions.md",
     "9- Common Collections/0- intro.md",
     "8- Packages, crates and modules/6- Separating modules into different files.md",
     "9- Common Collections",
@@ -211,10 +215,7 @@
     "6- Using Structs and structure related data/2- Methods/2- Methods with more parameters.md",
     "6- Using Structs and structure related data/2- Methods/1- Syntax.md",
     "6- Using Structs and structure related data/2- Methods/List of methods.md",
-    "6- Using Structs and structure related data/1- Structures/5- Adding Functionality with Derived Traits.md",
     "6- Using Structs and structure related data/2- Methods",
-    "6- Using Structs and structure related data/1- Structures/1- Defining and instantiating structs.md",
-    "6- Using Structs and structure related data/1- Structures/4- Defining unit like structs.md",
     "6- Using Structs and structure related data/1- Structures"
   ]
 }
