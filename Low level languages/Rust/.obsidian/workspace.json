@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6- Using Structs and structure related data/2- Methods/1- Syntax.md",
+                "file": "6- Using Structs and structure related data/1- Structures/1- Defining and instantiating structs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1- Syntax"
+              "title": "1- Defining and instantiating structs"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "debug",
+                "query": "stru",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,10 +186,13 @@
   },
   "active": "d323e3fec6595f95",
   "lastOpenFiles": [
+    "7- Enums and pattern matching/2- enum definition.md",
+    "7- Enums and pattern matching/1- why using enums and not structs.md",
+    "9- Common Collections/3- Hash maps.md",
+    "6- Using Structs and structure related data/2- Methods/1- Syntax.md",
     "9- Common Collections/1- List of values with vector.md",
     "9- Common Collections/2- Storing UTF-8 Encoded Text with Strings.md",
     "5- Ownsership/3- The slice type/1- Slice type.md",
-    "9- Common Collections/3- Hash maps.md",
     "6- Using Structs and structure related data/1- Structures/2- Struct update syntax.md",
     "5- Ownsership/1- Whats Ownership/7- Ownership and functions.md",
     "9- Common Collections/0- intro.md",
@@ -207,13 +210,10 @@
     "8- Packages, crates and modules",
     "7- Enums and pattern matching/4- match control flow construct.md",
     "7- Enums and pattern matching/3- option enum.md",
-    "7- Enums and pattern matching/2- enum definition.md",
-    "7- Enums and pattern matching/1- why using enums and not structs.md",
     "6- Using Structs and structure related data/2- Methods/4- Multiple implement block.md",
     "7- Enums and pattern matching",
     "6- Using Structs and structure related data/2- Methods/3- Associated functions.md",
     "6- Using Structs and structure related data/2- Methods/2- Methods with more parameters.md",
-    "6- Using Structs and structure related data/2- Methods/1- Syntax.md",
     "6- Using Structs and structure related data/2- Methods/List of methods.md",
     "6- Using Structs and structure related data/2- Methods",
     "6- Using Structs and structure related data/1- Structures"
