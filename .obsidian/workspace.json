@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Low level languages/Rust/2- Data Types/2- Compound types/2- Tuple.md",
+                "file": "Low level languages/Rust/10- Error handling/2- Panic!.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2- Tuple"
+              "title": "2- Panic!"
             }
           }
         ]
@@ -169,8 +169,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "e4ae3c0808179862",
+  "active": "44b630703d51bfdc",
   "lastOpenFiles": [
+    "zzDocument/Pasted image 20260507221807.png",
+    "Low level languages/Rust/2- Data Types/2- Compound types/2- Tuple.md",
     "Low level languages/Rust/6- Using Structs and structure related data/1- Defining and instantiating structs.md",
     "Low level languages/Rust/5- Ownsership/3- The slice type/4- Other Slices.md",
     "Low level languages/Rust/6- Using Structs and structure related data",
@@ -204,8 +206,6 @@
     "zzDocument/Pasted image 20260429112931.png",
     "zzDocument/Pasted image 20260429112256.png",
     "Low level languages/Rust/5- Ownsership/1- Whats Ownership/3- Variable scope and heap cleaning.md",
-    "Low level languages/Rust/5- Ownsership/4- String type.md",
-    "Low level languages/Rust/5- Ownsership/1- Whats Ownership/2- Rules.md",
     "Low level languages/Rust/5- Ownsership/1- Understand ownership",
     "Low level languages/Rust/5- Ownsership",
     "Low level languages/Rust/4- Control flow",
