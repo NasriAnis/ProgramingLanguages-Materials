@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10- Error handling/3- Result<T, E>.md",
+                "file": "11- Generic types, Traits and Lifetimes/3- Shared behaviors with traits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3- Result<T, E>"
+              "title": "3- Shared behaviors with traits"
             }
           }
         ]
@@ -185,8 +185,13 @@
   },
   "active": "c6f24451bb428be0",
   "lastOpenFiles": [
-    "10- Error handling/2- Panic!.md",
+    "11- Generic types, Traits and Lifetimes/2- Generic data types.md",
+    "11- Generic types, Traits and Lifetimes/3- Shared behaviors with traits.md",
+    "11- Generic types, Traits and Lifetimes/1- Intro.md",
     "10- Error handling/3- Result<T, E>.md",
+    "11- Generics,/Untitled.md",
+    "11- Generic types, Traits and Lifetimes",
+    "10- Error handling/2- Panic!.md",
     "10- Error handling/1- Types of errors.md",
     "7- Enums and pattern matching/3- option enum.md",
     "9- Common Collections/3- Hash maps.md",
@@ -209,10 +214,6 @@
     "8- Packages, crates and modules/4- Paths for Referring to an Item in the Module Tree.md",
     "8- Packages, crates and modules/3- Control scope and privacy with modules.md",
     "8- Packages, crates and modules/2- packages and crates.md",
-    "1- Common Concepts/3- Shadowing.md",
-    "1- Common Concepts/2- Constants.md",
-    "1- Common Concepts/1- Variables and mutability.md",
-    "8- Packages, crates and modules/1- intro.md",
     "8- Packages, crates and modules",
     "7- Enums and pattern matching",
     "6- Using Structs and structure related data/2- Methods",
