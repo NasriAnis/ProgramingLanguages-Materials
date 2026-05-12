@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11- Generic types, Traits and Lifetimes/3- Shared behaviors with Traits.md",
+                "file": "6- Using Structs and structure related data/1- Structures/1- Defining and instantiating structs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3- Shared behaviors with Traits"
+              "title": "1- Defining and instantiating structs"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "method",
+                "query": "^",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -185,20 +186,23 @@
   },
   "active": "c6f24451bb428be0",
   "lastOpenFiles": [
-    "11- Generic types, Traits and Lifetimes/2- Generic data types.md",
-    "11- Generic types, Traits and Lifetimes/3- Shared behaviors with Traits.md",
+    "4- Control flow/4- for.md",
+    "4- Control flow/2- Loop.md",
+    "7- Enums and pattern matching/1- why using enums and not structs.md",
+    "7- Enums and pattern matching/4- match control flow construct.md",
+    "7- Enums and pattern matching/3- option enum.md",
     "11- Generic types, Traits and Lifetimes/1- Intro.md",
+    "11- Generic types, Traits and Lifetimes/3- Shared behaviors with Traits.md",
+    "11- Generic types, Traits and Lifetimes/2- Generic data types.md",
+    "8- Packages, crates and modules/3- Control scope and privacy with modules.md",
     "10- Error handling/3- Result<T, E>.md",
     "11- Generics,/Untitled.md",
     "11- Generic types, Traits and Lifetimes",
     "10- Error handling/2- Panic!.md",
     "10- Error handling/1- Types of errors.md",
-    "7- Enums and pattern matching/3- option enum.md",
     "9- Common Collections/3- Hash maps.md",
     "10- Error handling",
     "7- Enums and pattern matching/5- if let and let ... else.md",
-    "7- Enums and pattern matching/4- match control flow construct.md",
-    "7- Enums and pattern matching/1- why using enums and not structs.md",
     "6- Using Structs and structure related data/1- Structures/1- Defining and instantiating structs.md",
     "7- Enums and pattern matching/2- enum definition.md",
     "6- Using Structs and structure related data/2- Methods/1- Syntax.md",
@@ -211,9 +215,6 @@
     "8- Packages, crates and modules/6- Separating modules into different files.md",
     "9- Common Collections",
     "8- Packages, crates and modules/5- Bringing modules into scope with use.md",
-    "8- Packages, crates and modules/4- Paths for Referring to an Item in the Module Tree.md",
-    "8- Packages, crates and modules/3- Control scope and privacy with modules.md",
-    "8- Packages, crates and modules/2- packages and crates.md",
     "8- Packages, crates and modules",
     "7- Enums and pattern matching",
     "6- Using Structs and structure related data/2- Methods",
