@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6- Using Structs and structure related data/1- Structures/1- Defining and instantiating structs.md",
+                "file": "11- Generic types, Traits and Lifetimes/4- Validating references with lifetimes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1- Defining and instantiating structs"
+              "title": "4- Validating references with lifetimes"
+            }
+          },
+          {
+            "id": "5ca82736b0d8fc00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6- Using Structs and structure related data/2- Methods/2- Methods with more parameters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2- Methods with more parameters"
             }
           }
         ]
@@ -53,12 +67,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "^",
+                "query": "method",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTimeReverse"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -74,12 +88,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 283.5
   },
   "right": {
     "id": "eb43dc40ef67e415",
@@ -186,35 +199,35 @@
   },
   "active": "c6f24451bb428be0",
   "lastOpenFiles": [
+    "11- Generic types, Traits and Lifetimes/3- Shared behaviors with Traits.md",
+    "6- Using Structs and structure related data/2- Methods/2- Methods with more parameters.md",
+    "11- Generic types, Traits and Lifetimes/4- Validating references with lifetimes.md",
+    "10- Error handling/2- Panic!.md",
+    "10- Error handling/3- Result<T, E>.md",
+    "8- Packages, crates and modules/5- Bringing modules into scope with use.md",
+    "5- Ownsership/1- Whats Ownership/3- Variable scope and heap cleaning.md",
+    "2- Data Types/1- Scalar type/6- Character type.md",
+    "2- Data Types/1- Scalar type/2- Integer types.md",
+    "2- Data Types/1- Scalar type/3- Floating point types.md",
+    "2- Data Types/1- Scalar type/1- Whats a scalar type.md",
+    "6- Using Structs and structure related data/1- Structures/1- Defining and instantiating structs.md",
+    "9- Common Collections/0- intro.md",
+    "9- Common Collections/1- List of values with vector.md",
+    "11- Generic types, Traits and Lifetimes/1- Intro.md",
     "4- Control flow/4- for.md",
     "4- Control flow/2- Loop.md",
+    "9- Common Collections/3- Hash maps.md",
     "7- Enums and pattern matching/1- why using enums and not structs.md",
     "7- Enums and pattern matching/4- match control flow construct.md",
     "7- Enums and pattern matching/3- option enum.md",
-    "11- Generic types, Traits and Lifetimes/1- Intro.md",
-    "11- Generic types, Traits and Lifetimes/3- Shared behaviors with Traits.md",
     "11- Generic types, Traits and Lifetimes/2- Generic data types.md",
     "8- Packages, crates and modules/3- Control scope and privacy with modules.md",
-    "10- Error handling/3- Result<T, E>.md",
     "11- Generics,/Untitled.md",
     "11- Generic types, Traits and Lifetimes",
-    "10- Error handling/2- Panic!.md",
     "10- Error handling/1- Types of errors.md",
-    "9- Common Collections/3- Hash maps.md",
     "10- Error handling",
     "7- Enums and pattern matching/5- if let and let ... else.md",
-    "6- Using Structs and structure related data/1- Structures/1- Defining and instantiating structs.md",
-    "7- Enums and pattern matching/2- enum definition.md",
-    "6- Using Structs and structure related data/2- Methods/1- Syntax.md",
-    "9- Common Collections/1- List of values with vector.md",
-    "9- Common Collections/2- Storing UTF-8 Encoded Text with Strings.md",
-    "5- Ownsership/3- The slice type/1- Slice type.md",
-    "6- Using Structs and structure related data/1- Structures/2- Struct update syntax.md",
-    "5- Ownsership/1- Whats Ownership/7- Ownership and functions.md",
-    "9- Common Collections/0- intro.md",
-    "8- Packages, crates and modules/6- Separating modules into different files.md",
     "9- Common Collections",
-    "8- Packages, crates and modules/5- Bringing modules into scope with use.md",
     "8- Packages, crates and modules",
     "7- Enums and pattern matching",
     "6- Using Structs and structure related data/2- Methods",
